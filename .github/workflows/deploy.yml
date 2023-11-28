@@ -1,6 +1,7 @@
 name: Deploy to neocities
 # Deploy script for neocities by @bcomnes. Stripped of node.js and npm stuff.
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
