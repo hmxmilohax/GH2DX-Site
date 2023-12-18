@@ -2,5 +2,3 @@
 # GH2DX Website Repository
 # [Neocities](https://gh2.neocities.org/) [![Deploy to neocities](https://github.com/hmxmilohax/GH2DX-Site/actions/workflows/deploy.yml/badge.svg)](https://github.com/hmxmilohax/GH2DX-Site/actions/workflows/deploy.yml)
 # [GitHub Pages Mirror](https://hmxmilohax.github.io/GH2DX-Site/) [![pages-build-deployment](https://github.com/hmxmilohax/GH2DX-Site/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/hmxmilohax/GH2DX-Site/actions/workflows/pages/pages-build-deployment)
-
-:3
